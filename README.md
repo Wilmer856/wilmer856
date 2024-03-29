@@ -49,7 +49,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Workout Buddy</h3>
         <br />
-            <img src="./images/workout-buddy.gif" width="100%"  alt="Workout Buddy"/>
+            <a href="https://github.com/Wilmer856/MERN-Workout-App"><img src="./images/workout-buddy.gif" width="100%"  alt="Workout Buddy"/></a>
         <br />
         <p align="center">
           
@@ -79,7 +79,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Appointment System</h3>
         <br />
-          <img src="./images/software2.gif" width="100%" alt="appointment system"/>
+          <a href="https://github.com/Wilmer856/java-appointment-system"><img src="./images/software2.gif" width="100%" alt="appointment system"/></a>
         <br />
         <p align="center">
           
