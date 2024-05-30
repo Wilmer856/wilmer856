@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Wilmer Guzman</h1>
-  <h3>A passionate frontend developer</h3>
+  <h3>A passionate Software Engineer</h3>
 </div>
 
 <br />
