@@ -32,19 +32,19 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">SafeHerd Solutions</h3>
+      <h3 align="center">Animal Classification</h3>
         <br />
-        <a target="_blank" href="https://safeherdsolutions.netlify.app/">
-            <img src="./images/safeherd.gif" width="100%" alt="SafeHerd App"/>
+        <a target="_blank" href="https://github.com/Wilmer856/animal-binary-classification">
+            <img src="./images/safeherd.gif" width="100%" alt="Website showcasing the machine learning model"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Wilmer856/safeherd-website" target="_blank">
+  <a href="https://github.com/Wilmer856/animal-binary-classification" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
-        <p><strong>HTML5, CSS3, Javascript, Keras, & TensorFlow</strong> - Web platform uses AI to classify animals as domestic or predators, showcasing machine learning's potential in animal behavior analysis.</p>
+        <p><strong>Python, Keras, & TensorFlow</strong> - Machine learning model that classifies animals as domestic or predators, showcasing machine learning's potential in animal behavior analysis.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Workout Buddy</h3>
