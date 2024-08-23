@@ -12,7 +12,7 @@
     <td width="50%" valign="top">
       <ul>
         <li>🌱 I’m currently learning <strong>Next.js</strong></li><br />
-        <li>👨‍💻 All of my projects are available at <a href="https://willwebdesigns.com/">https://willwebdev.com/</a></li><br />
+        <li>👨‍💻 All of my projects are available at <a href="https://willwebdev.com/">https://willwebdev.com/</a></li><br />
         <li>📫 How to reach me <a href="mailto:joelguzman2468@gmail.com">joelguzman2468@gmail.com</a></li><br />
       </ul>
       <h3 align="left">Connect with me:</h3>
